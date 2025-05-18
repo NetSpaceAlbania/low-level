@@ -12,7 +12,7 @@ An applied, project‑driven course outline that teaches C programming, compiler
 - **Memory Basics**: Memory hierarchy overview (registers, cache, RAM, disk) and addressing [3]. Endianness and simple caching concepts.
 - **C Programming Foundations**: Syntax, data types, control flow, functions. Practice pointers and simple data structures.
 - **Intro to Assembly**: Simple assembly language via a student-friendly ISA (e.g. MIPS). Learn how C constructs (loops, function calls) map to assembly instructions.
-- **Tools**: Introduction to using a compiler (gcc/clang), debugger (gdb), and simple simulators (like MARS for MIPS).
+- **Tools**: Introduction to using a compiler (gcc/clang), debugger (gdb), and simple simulators (like MARS or EduMips for MIPS).
 
 ### Practical Exercises / Projects:
 
@@ -41,7 +41,7 @@ assembly [2] [3].
 - CS:APP slides or video lectures (covers binary, data representation, assembly).
 - Online tutorials on binary math (e.g. Neso Academy, Khan Academy, etc...) and basic logic gates.
 - Patterson & Hennessy – first chapters for CPU/memory basics.
-- Interactive MIPS environments (MARS or QtSpim) for assembly practice.
+- Interactive MIPS environments (MARS, EduMips or QtSpim) for assembly practice.
 - Beej’s Guides
 
 ## Intermediate
